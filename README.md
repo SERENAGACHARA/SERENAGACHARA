@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SERENAGACHARA
+- 👀 I’m interested in data programming and data analytics
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on data related work.
+- 📫 How to reach serenagachara@gmail.com
